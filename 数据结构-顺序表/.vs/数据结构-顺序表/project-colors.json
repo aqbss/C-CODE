@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bea074a7-7e30-41f0-8052-27af36c1ef1b": {
+      "ProjectGuid": "bea074a7-7e30-41f0-8052-27af36c1ef1b",
+      "DisplayName": "数据结构-顺序表",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
