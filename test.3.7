@@ -1,0 +1,20 @@
+# C-CODE
+#include <stdio.h>
+#define SIZE 10
+typedef int datatype;
+
+typedef struct {
+	datatype arr[SIZE];
+	int length;
+}sqlist;
+
+void InitList(sqlist* p,SIZE)
+{
+	for(int i=0;i<SIZE;i++)
+	{
+		*p=0;
+		if(i<SIZE-1)
+		p++;	
+	}
+} 
+
